@@ -162,3 +162,6 @@ function now() { [native code] } : PUT /menuItem/672711b377ab20ebf3a96414
 [2024-11-07T08:21:38.426Z]  Data reterived successfully 
 [2024-11-07T08:22:14.593Z] data is comming:
 [2024-11-07T08:22:14.645Z]  Data reterived successfully 
+[2024-11-07T08:50:28.069Z] Incoming data for /menuItem endpoint.
+[2024-11-07T08:50:28.114Z] Data saved successfully: {"name":"Biryani ","price":9.99,"test":"Spicy","is_drink":false,"ingredients":["Beef","Chili Sauce","Lettuce","Tomato","Cheese"],"num_sales":25,"_id":"672c7f54ff301a5ebf5b36b0","__v":0}
+[2024-11-07T08:50:39.175Z] Data deleted successfully
