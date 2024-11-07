@@ -150,3 +150,15 @@ function now() { [native code] } : PUT /menuItem/672711b377ab20ebf3a96414
 [2024-11-07T03:26:22.468Z] Error deleting menu item from database
 [2024-11-07T03:28:02.225Z] Error deleting menu item from database
 [2024-11-07T03:37:02.240Z] Data deleted successfully
+[2024-11-07T07:51:57.962Z] Incoming data for /menuItem endpoint.
+[2024-11-07T07:51:58.287Z] Data saved successfully: {"name":"Biryani ","price":9.99,"test":"Spicy","is_drink":false,"ingredients":["Beef","Chili Sauce","Lettuce","Tomato","Cheese"],"num_sales":25,"_id":"672c719db6b86a369d869c8f","__v":0}
+[2024-11-07T07:55:10.328Z] Incoming data for /menuItem endpoint.
+[2024-11-07T07:55:10.384Z] Data saved successfully: {"name":"Biryani ","price":9.99,"test":"Spicy","is_drink":false,"ingredients":["Beef","Chili Sauce","Lettuce","Tomato","Cheese"],"num_sales":25,"_id":"672c725eb6b86a369d869c91","__v":0}
+[2024-11-07T07:56:27.569Z] Incoming request body:
+[2024-11-07T07:56:27.613Z] Data saved successfully:
+[2024-11-07T08:15:57.444Z] data is comming:
+[2024-11-07T08:15:57.495Z]  Data reterived successfully 
+[2024-11-07T08:21:38.384Z] data is comming:
+[2024-11-07T08:21:38.426Z]  Data reterived successfully 
+[2024-11-07T08:22:14.593Z] data is comming:
+[2024-11-07T08:22:14.645Z]  Data reterived successfully 
