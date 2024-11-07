@@ -1,0 +1,152 @@
+function now() { [native code] } : [object Object] /person function now() { [native code] } : GET /person function now()
+ { [native code] } : GET /person
+ 
+function now() { [native code] } : GET /person
+ 
+function now() { [native code] } : POST /menuItem
+ [2024-11-03T06:01:23.092Z] Incoming data for /menuItem endpoint.
+[2024-11-03T06:01:23.112Z] Data saved successfully: {"name":"Chili Burger","price":9.99,"test":"Spicy","is_drink":false,"ingredients":["Beef","Chili Sauce","Lettuce","Tomato","Cheese"],"num_sales":25,"_id":"672711b377ab20ebf3a96414","__v":0}
+
+function now() { [native code] } : GET /getmenuItem
+ [2024-11-03T06:09:42.431Z] Incoming data for /getmenuItem endpoint.
+
+function now() { [native code] } : GET /getmenuItem
+ [2024-11-03T06:12:25.873Z] Incoming data for /getmenuItem endpoint.
+[2024-11-03T06:12:25.884Z] Error getting menu item : json is not defined
+
+function now() { [native code] } : GET /getmenuItem
+ [2024-11-03T06:13:52.938Z] Incoming data for /getmenuItem endpoint.
+[2024-11-03T06:13:52.950Z] Error getting menu item : json is not defined
+
+function now() { [native code] } : GET /getmenuItem
+ 
+function now() { [native code] } : GET /getmenuItem
+ [2024-11-03T06:17:35.336Z] Incoming data for /getmenuItem endpoint.
+[2024-11-03T06:17:35.346Z] Data retrieved successfully: [{"_id":"672711b377ab20ebf3a96414","name":"Chili Burger","price":9.99,"test":"Spicy","is_drink":false,"ingredients":["Beef","Chili Sauce","Lettuce","Tomato","Cheese"],"num_sales":25,"__v":0}]
+
+function now() { [native code] } : GET /person/Chef
+ [2024-11-04T07:52:14.431Z] data is comming:
+[2024-11-04T07:52:14.454Z]  Data reterived successfully 
+
+function now() { [native code] } : GET /person/Manager
+ [2024-11-04T07:54:08.312Z] data is comming:
+[2024-11-04T07:54:08.319Z]  Data reterived successfully 
+
+function now() { [native code] } : GET /person/pen
+ [2024-11-04T07:54:54.821Z] data is comming:
+
+function now() { [native code] } : GET /person/Manager
+ [2024-11-04T08:10:20.996Z] data is comming:
+[2024-11-04T08:10:21.000Z]  Data reterived successfully 
+[2024-11-05T18:56:30.261Z] data is Comming:
+[2024-11-05T18:56:30.264Z] Error retrieving person:
+[2024-11-05T18:57:11.178Z] Error retrieving person:
+[2024-11-05T18:57:11.177Z] data is Comming:
+[2024-11-05T18:58:49.450Z] data is comming:
+[2024-11-05T18:58:49.451Z] Error getting menu item : person is not defined
+[2024-11-05T19:00:37.255Z] data is comming:
+[2024-11-05T19:00:37.256Z] Error getting menu item : person is not defined
+[2024-11-05T19:02:25.278Z] data is comming:
+[2024-11-05T19:02:25.282Z] Error getting Person : person is not defined
+[2024-11-05T19:03:47.267Z] data is comming:
+[2024-11-05T19:03:47.271Z] Error getting Person : person is not defined
+[2024-11-05T19:21:41.116Z] data is comming:
+[2024-11-05T19:21:41.144Z]  Data reterived successfully 
+[2024-11-05T19:23:23.976Z] Incoming request body:
+[2024-11-05T19:23:24.006Z] Data saved successfully:
+[2024-11-05T19:23:31.136Z] data is comming:
+[2024-11-05T19:23:31.143Z]  Data reterived successfully 
+
+function now() { [native code] } : GET /getmenuItem
+ 
+function now() { [native code] } : GET /menuItem
+ [2024-11-05T19:33:42.346Z] Incoming data for /getmenuItem endpoint.
+[2024-11-05T19:33:42.370Z] Data retrieved successfully: [{"_id":"672711b377ab20ebf3a96414","name":"Chili Burger","price":9.99,"test":"Spicy","is_drink":false,"ingredients":["Beef","Chili Sauce","Lettuce","Tomato","Cheese"],"num_sales":25,"__v":0}]
+[2024-11-05T19:34:07.098Z] Incoming data for /menuItem endpoint.
+[2024-11-05T19:34:07.115Z] Data saved successfully: {"name":"Biryani ","price":9.99,"test":"Spicy","is_drink":false,"ingredients":["Beef","Chili Sauce","Lettuce","Tomato","Cheese"],"num_sales":25,"_id":"672a732f8228f849561376fb","__v":0}
+[2024-11-05T19:56:36.204Z] data is comming:
+[2024-11-05T19:56:36.231Z]  Data reterived successfully 
+[2024-11-05T19:57:29.994Z] data is comming:
+[2024-11-05T19:57:30.009Z]  Data reterived successfully 
+
+function now() { [native code] } : PUT /person/672a70abef4fd354c726e078
+ 
+function now() { [native code] } : PUT /person/672a70abef4fd354c726e078
+ 
+function now() { [native code] } : PUT /person/672a70abef4fd354c726e078
+ 
+function now() { [native code] } : PUT /person/672a70abef4fd354c726e078
+ 
+function now() { [native code] } : PUT /person/672a70abef4fd354c726e078
+ 
+function now() { [native code] } : PUT /person/672a70abef4fd354c726e078
+ 
+function now() { [native code] } : PUT /person/672a70abef4fd354c726e078
+ 
+function now() { [native code] } : PUT /person/672a70abef4fd354c726e078
+ 
+function now() { [native code] } : PUT /person/672a70abef4fd354c726e078
+ 
+function now() { [native code] } : PUT /person/672a70abef4fd354c726e078
+ 
+function now() { [native code] } : PUT /person/672a70abef4fd354c726e078
+ 
+function now() { [native code] } : PUT /person/672a70abef4fd354c726e078
+ [2024-11-05T20:17:09.340Z] Incoming request body:
+[2024-11-05T20:17:09.371Z] Error saving person:
+[2024-11-05T20:17:12.833Z] Incoming request body:
+[2024-11-05T20:17:12.840Z] Error saving person:
+[2024-11-05T20:17:26.029Z] Incoming request body:
+[2024-11-05T20:17:26.042Z] Error saving person:
+[2024-11-06T18:43:49.232Z] Incoming request body:
+[2024-11-06T18:43:49.271Z] Error saving person:
+
+function now() { [native code] } : PUT /person/672a70abef4fd354c726e078
+ [2024-11-06T18:45:00.956Z] Incoming request body:
+[2024-11-06T18:45:00.963Z] Error saving person:
+[2024-11-06T18:45:12.368Z] data is comming:
+[2024-11-06T18:45:12.394Z]  Data reterived successfully 
+[2024-11-06T18:45:48.714Z]  Data Updated  successfully 
+[2024-11-06T18:47:26.804Z] Incoming request body:
+[2024-11-06T18:47:26.821Z] Error saving person:
+[2024-11-06T18:47:33.041Z] Incoming request body:
+[2024-11-06T18:47:33.046Z] Data saved successfully:
+[2024-11-06T18:48:04.354Z]  Data Updated  successfully 
+[2024-11-06T18:49:09.304Z] Incoming data for /menuItem endpoint.
+[2024-11-06T18:49:09.315Z] Data saved successfully: {"name":"Biryani ","price":9.99,"test":"Spicy","is_drink":false,"ingredients":["Beef","Chili Sauce","Lettuce","Tomato","Cheese"],"num_sales":25,"_id":"672bba259055f634352255ac","__v":0}
+[2024-11-06T18:49:31.789Z] Incoming data for /getmenuItem endpoint.
+[2024-11-06T18:49:31.796Z] Data retrieved successfully: [{"_id":"672711b377ab20ebf3a96414","name":"Chili Burger","price":9.99,"test":"Spicy","is_drink":false,"ingredients":["Beef","Chili Sauce","Lettuce","Tomato","Cheese"],"num_sales":25,"__v":0},{"_id":"672a732f8228f849561376fb","name":"Biryani ","price":9.99,"test":"Spicy","is_drink":false,"ingredients":["Beef","Chili Sauce","Lettuce","Tomato","Cheese"],"num_sales":25,"__v":0},{"_id":"672bba259055f634352255ac","name":"Biryani ","price":9.99,"test":"Spicy","is_drink":false,"ingredients":["Beef","Chili Sauce","Lettuce","Tomato","Cheese"],"num_sales":25,"__v":0}]
+
+function now() { [native code] } : POST /menuItem/672711b377ab20ebf3a96414
+ 
+function now() { [native code] } : PUT /menuItem/672711b377ab20ebf3a96414
+ [2024-11-06T19:00:24.755Z]  Data Updated  successfully 
+[2024-11-07T03:03:50.373Z] data is comming:
+[2024-11-07T03:03:50.431Z]  Data reterived successfully 
+[2024-11-07T03:04:23.404Z] Incoming data for /getmenuItem endpoint.
+[2024-11-07T03:04:23.415Z] Data retrieved successfully: [{"_id":"672711b377ab20ebf3a96414","name":"Chili Burger","price":240,"test":"Spicy","is_drink":false,"ingredients":["Beef","Chili Sauce","Lettuce","Tomato","Cheese"],"num_sales":25,"__v":0},{"_id":"672a732f8228f849561376fb","name":"Biryani ","price":9.99,"test":"Spicy","is_drink":false,"ingredients":["Beef","Chili Sauce","Lettuce","Tomato","Cheese"],"num_sales":25,"__v":0},{"_id":"672bba259055f634352255ac","name":"Biryani ","price":9.99,"test":"Spicy","is_drink":false,"ingredients":["Beef","Chili Sauce","Lettuce","Tomato","Cheese"],"num_sales":25,"__v":0}]
+[2024-11-07T03:05:03.763Z] Incoming data for /menuItem endpoint.
+[2024-11-07T03:05:03.768Z] Error saving menu item: MenuItem validation failed: test: `Medium ` is not a valid enum value for path `test`.
+[2024-11-07T03:05:51.138Z] Incoming data for /menuItem endpoint.
+[2024-11-07T03:05:51.141Z] Error saving menu item: MenuItem validation failed: test: `Medium` is not a valid enum value for path `test`.
+[2024-11-07T03:05:58.206Z] Incoming data for /menuItem endpoint.
+[2024-11-07T03:05:58.216Z] Data saved successfully: {"name":"Biryani ","price":9.99,"test":"Spicy","is_drink":false,"ingredients":["Beef","Chili Sauce","Lettuce","Tomato","Cheese"],"num_sales":25,"_id":"672c2e96e7847a4dea35c422","__v":0}
+[2024-11-07T03:06:23.829Z] Error deleteing menuItem  from db
+[2024-11-07T03:07:40.123Z] Error deleteing menuItem  from db
+[2024-11-07T03:08:04.335Z] Incoming data for /getmenuItem endpoint.
+[2024-11-07T03:08:04.339Z] Data retrieved successfully: [{"_id":"672711b377ab20ebf3a96414","name":"Chili Burger","price":240,"test":"Spicy","is_drink":false,"ingredients":["Beef","Chili Sauce","Lettuce","Tomato","Cheese"],"num_sales":25,"__v":0},{"_id":"672a732f8228f849561376fb","name":"Biryani ","price":9.99,"test":"Spicy","is_drink":false,"ingredients":["Beef","Chili Sauce","Lettuce","Tomato","Cheese"],"num_sales":25,"__v":0},{"_id":"672bba259055f634352255ac","name":"Biryani ","price":9.99,"test":"Spicy","is_drink":false,"ingredients":["Beef","Chili Sauce","Lettuce","Tomato","Cheese"],"num_sales":25,"__v":0},{"_id":"672c2e96e7847a4dea35c422","name":"Biryani ","price":9.99,"test":"Spicy","is_drink":false,"ingredients":["Beef","Chili Sauce","Lettuce","Tomato","Cheese"],"num_sales":25,"__v":0}]
+[2024-11-07T03:08:25.330Z] Error deleteing menuItem  from db
+[2024-11-07T03:09:20.056Z] Error deleteing menuItem  from db
+[2024-11-07T03:10:12.779Z] Error deleteing menuItem  from db
+[2024-11-07T03:10:44.994Z] Error deleteing menuItem  from db
+[2024-11-07T03:12:24.133Z] Error deleteing menuItem  from db
+[2024-11-07T03:15:04.971Z] Error deleteing menuItem  from db
+[2024-11-07T03:15:21.966Z] Error deleteing menuItem  from db
+[2024-11-07T03:17:13.864Z] Error deleteing menuItem  from db
+[2024-11-07T03:18:48.717Z] Error deleteing menuItem  from db
+[2024-11-07T03:20:53.966Z] Error deleting menu item from database
+[2024-11-07T03:21:34.349Z] Error deleting menu item from database
+[2024-11-07T03:26:20.136Z] Error deleting menu item from database
+[2024-11-07T03:26:22.468Z] Error deleting menu item from database
+[2024-11-07T03:28:02.225Z] Error deleting menu item from database
+[2024-11-07T03:37:02.240Z] Data deleted successfully
